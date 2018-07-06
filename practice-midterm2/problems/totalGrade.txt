@@ -1,0 +1,7 @@
+problem_1: 30/30
+problem_2: 30/30
+problem_3: 20/20
+problem_4: 20/20
+
+CS240: Exam2. jandruli Fri Mar 24 02:05:11 EDT 2017
+Total Grade: 100/100

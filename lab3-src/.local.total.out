@@ -1,0 +1,2074 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:24:13 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:04 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:39 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Wed Jan 25 21:10:26 EST 2017
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Wed Jan 25 21:11:58 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Wed Jan 25 21:20:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Wed Jan 25 21:27:16 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Wed Jan 25 21:27:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:25:20 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:28:13 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:35:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:44:33 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:48:26 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:49:51 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:56:48 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 09:58:49 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:03:54 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:06:24 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:08:13 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  21 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:10:55 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:35:02 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:42:39 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:46:42 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:47:01 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:48:10 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:49:32 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 10:51:41 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Jan 27 11:06:07 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 13:38:57 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 13:43:52 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:35:31 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:36:56 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:39:10 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:40:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:43:30 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:44:28 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:47:40 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:48:19 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  86 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:52:31 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:52:42 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 15:53:36 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:06:51 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:07:55 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:08:11 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:08:50 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:11:25 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  55 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:11:49 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:12:22 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  94 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:13:08 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:15:53 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:18:04 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:19:06 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:20:23 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:21:51 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  97 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Mon Jan 30 16:22:13 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Tue Jan 31 07:16:08 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Tue Jan 31 07:27:49 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Tue Jan 31 07:30:07 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Tue Jan 31 07:30:34 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Feb 17 09:36:12 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. jandruli   
+Fri Feb 17 09:38:11 EST 2017
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+

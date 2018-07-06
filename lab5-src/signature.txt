@@ -1,0 +1,8 @@
+FileType,Extension,Signature,Signature Offset
+Executable,none,.ELF,0
+WAV,wav,RIFF,0
+JPEG,jpg,JFIF,6testa
+GIF,gif,GIF89a,0
+TAR,ustar,257
+ZIP,zip,PK,0
+

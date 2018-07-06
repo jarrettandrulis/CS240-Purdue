@@ -1,0 +1,13 @@
+Address,Variable/Function,Section
+0x400606,foo,text
+0x40064e,main,text
+0x4007a2,str:"Hello World",text
+0x601050,&a,data
+0x601054,&le,data
+0x601084,&c,data
+0x1a24010,p,heap
+0x7ffe82fa19d4,&b,stack
+0x7ffe82fa19d8,&p,stack
+0x7ffe82fa19b4,&d,stack
+0x7ffe82fa19e0,&str,stack
+

@@ -1,0 +1,7 @@
+Thu Apr 6 23:08:33 EDT 2017
++break main
+No symbol table is loaded.  Use the "file" command.
++make
++exit
+Undefined command: "exit".  Try "help".
++q

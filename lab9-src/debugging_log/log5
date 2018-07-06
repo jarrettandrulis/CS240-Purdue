@@ -1,0 +1,181 @@
+Thu Apr 6 23:09:11 EDT 2017
++break main
+Breakpoint 1 at 0x401318: file TestDLList.cpp, line 94.
++s
+The program is not being run.
++start
+Temporary breakpoint 2 at 0x401318: file TestDLList.cpp, line 94.
+Starting program: /home/u90/jandruli/cs240/lab9-src/TestDLList 
+
+Breakpoint 1, main (argc=1, argv=0x7fffffffe0d8) at TestDLList.cpp:94
+94		if (argc < 2) {
++s
+95			std::cout<<"test_mysort [test1|test2|test3|test4|test5]"<<std::endl;
++s
+96			return 2;
++s
+115	}
++s
+0x00007ffff723b6d0 in __libc_start_main () from /lib64/libc.so.6
++s
+Single stepping until exit from function __libc_start_main,
+which has no line number information.
+[Inferior 1 (process 7508) exited with code 02]
++s
+The program is not being run.
++start test 5
+Temporary breakpoint 3 at 0x401318: file TestDLList.cpp, line 94.
+Starting program: /home/u90/jandruli/cs240/lab9-src/TestDLList test 5
+
+Breakpoint 1, main (argc=3, argv=0x7fffffffe0c8) at TestDLList.cpp:94
+94		if (argc < 2) {
++s
+99		if (strcmp(argv[1],"test1")==0) {
++s
+101		} else if (strcmp(argv[1],"test2")==0) {
++s
+103		} else if (strcmp(argv[1],"test3")==0) {
++s
+105		} else if (strcmp(argv[1],"test4")==0) {
++s
+107		} else if (strcmp(argv[1],"test5")==0) {
++s
+110			std::cout<<"Invalid test number."<<std::endl;
++s
+111			return 1;
++start test3
+Temporary breakpoint 4 at 0x401318: file TestDLList.cpp, line 94.
+Starting program: /home/u90/jandruli/cs240/lab9-src/TestDLList test3
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffe0d8) at TestDLList.cpp:94
+94		if (argc < 2) {
++s
+99		if (strcmp(argv[1],"test1")==0) {
++s
+101		} else if (strcmp(argv[1],"test2")==0) {
++s
+103		} else if (strcmp(argv[1],"test3")==0) {
++s
+104			test3();
++s
+test3 () at TestDLList.cpp:40
+40	{
++s
+41		DLList list; int dave;
++s
+DLList::DLList (this=0x7fffffffdfb0) at DLList.cpp:9
+9		DLNode * e = new DLNode();
++s
+10		e->data = 0;
++s
+11		head = e;
++s
+12		head->next = head;
++s
+13		head->prev = head;
++s
+14	}
++s
+test3 () at TestDLList.cpp:42
+42		list << 1 << 1 << 1 << 0 << 0 << 12 << 123123;
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:36
+36			this->insertFront(data);
++s
+DLList::insertFront (this=0x7fffffffdfb0, data=1) at DLList.cpp:58
+58		DLNode * e = new DLNode();
++s
+59		e->data = data;
++s
+60		e->next = head;
++s
+61		e->prev = head->prev;
++s
+62		head->prev->next = e;
++s
+63		head = e;
++s
+64	}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:37
+37			return *this;
++s
+38		}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:36
+36			this->insertFront(data);
++s
+DLList::insertFront (this=0x7fffffffdfb0, data=1) at DLList.cpp:58
+58		DLNode * e = new DLNode();
++s
+59		e->data = data;
++s
+60		e->next = head;
++s
+61		e->prev = head->prev;
++s
+62		head->prev->next = e;
++s
+63		head = e;
++s
+64	}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:37
+37			return *this;
++s
+38		}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:36
+36			this->insertFront(data);
++s
+DLList::insertFront (this=0x7fffffffdfb0, data=1) at DLList.cpp:58
+58		DLNode * e = new DLNode();
++s
+59		e->data = data;
++s
+60		e->next = head;
++s
+61		e->prev = head->prev;
++s
+62		head->prev->next = e;
++s
+63		head = e;
++s
+64	}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=1) at DLList.h:37
+37			return *this;
++s
+38		}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=0) at DLList.h:36
+36			this->insertFront(data);
++s
+DLList::insertFront (this=0x7fffffffdfb0, data=0) at DLList.cpp:58
+58		DLNode * e = new DLNode();
++s
+59		e->data = data;
++s
+60		e->next = head;
++s
+61		e->prev = head->prev;
++s
+62		head->prev->next = e;
++s
+63		head = e;
++s
+64	}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=0) at DLList.h:37
+37			return *this;
++s
+38		}
++s
+DLList::operator<< (this=0x7fffffffdfb0, data=0) at DLList.h:36
+36			this->insertFront(data);
++s
+DLList::insertFront (this=0x7fffffffdfb0, data=0) at DLList.cpp:58
+58		DLNode * e = new DLNode();
++s
+59		e->data = data;
++q

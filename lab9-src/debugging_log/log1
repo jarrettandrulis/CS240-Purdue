@@ -1,0 +1,258 @@
+Fri Mar 31 09:53:46 EDT 2017
++break main
+Breakpoint 1 at 0x400e00: file TestStack.cpp, line 41.
++run test1
+Starting program: /u/data/u90/jandruli/cs240/lab9-src/TestStack test1
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffdd28) at TestStack.cpp:41
+41		test1();
++step
+test1 () at TestStack.cpp:11
+11	void test1() {
++step
+12		Stack * stack = new Stack(10);
++where
+#0  test1 () at TestStack.cpp:12
+#1  0x0000000000400e05 in main (argc=2, argv=0x7fffffffdd28)
+    at TestStack.cpp:41
++step
+Stack::Stack (this=0x603010, maxStack=10) at Stack.cpp:12
+warning: Source file is more recent than executable.
+12		this->maxStack = maxStack;
++backtrace full
+#0  Stack::Stack (this=0x603010, maxStack=10) at Stack.cpp:12
+No locals.
+#1  0x0000000000400bda in test1 () at TestStack.cpp:12
+        stack = 0x3
+        val = 2.0742881718937645e-317
+#2  0x0000000000400e05 in main (argc=2, argv=0x7fffffffdd28)
+    at TestStack.cpp:41
+No locals.
++print top
+$1 = 0
++print maxStack
+$2 = 10
++print stack
+$3 = (double *) 0x0
++print *stack
+Cannot access memory at address 0x0
++step
+13		stack = new double[maxStack];
++print stack
+$4 = (double *) 0x0
++step
+14		top = 0;
++print stack
+$5 = (double *) 0x603030
++print *stack
+$6 = 0
++step
+15	}
++step
+test1 () at TestStack.cpp:13
+13		stack->push(40);
++step
+Stack::push (this=0x603010, value=40) at Stack.cpp:19
+19			if(maxStack == top)
++print *stack
+$7 = 0
++print *0x603030
+$8 = 0
++where
+#0  Stack::push (this=0x603010, value=40) at Stack.cpp:19
+#1  0x0000000000400bfd in test1 () at TestStack.cpp:13
+#2  0x0000000000400e05 in main (argc=2, argv=0x7fffffffdd28)
+    at TestStack.cpp:41
++step
+23			stack[top++] = value;
++step
+24			return true;
++print *stack
+$9 = 40
++step
+27		}
++step
+test1 () at TestStack.cpp:14
+14		stack->push(50);
++step
+Stack::push (this=0x603010, value=50) at Stack.cpp:19
+19			if(maxStack == top)
++step
+23			stack[top++] = value;
++step
+24			return true;
++step
+27		}
++print *stack
+$10 = 40
++print *stack++
+$11 = 40
++print *stack
+$12 = 50
++print *stack--
+$13 = 50
++print *stack
+$14 = 40
++print *(stack+1)
+$15 = 50
++print *(stack+2)
+$16 = 0
++next
+test1 () at TestStack.cpp:15
+15		stack->push(60);
++next
+16		stack->push(70);
++next
+17		stack->push(80);
++next
+19		printf("top=%d max=%d\n", stack->getTop(), stack->getMaxStack());
++print *(stack)
+$17 = {maxStack = 10, top = 5, stack = 0x603030}
++print *(stack+1)
+$18 = {maxStack = 0, top = 0, stack = 0x61}
++print *(stack->stack)
+$19 = 40
++print *(stack->stack+1)
+$20 = 50
++print *(stack->stack+2)
+$21 = 60
++print *(stack->stack+3)
+$22 = 70
++print *(stack->stack+4)
+$23 = 80
++print *(stack->stack+5)
+$24 = 0
++step
+Stack::getMaxStack (this=0x603010) at Stack.cpp:44
+44			return maxStack;
++print maxStack
+$25 = 10
++step
+45		}
++step
+Stack::getTop (this=0x603010) at Stack.cpp:39
+39			return top;
++print top
+$26 = 5
++step
+40		}
++step
+test1 () at TestStack.cpp:20
+20		stack->print();
++step
+Stack::print (this=0x603010) at Stack.cpp:50
+50		}
++step
+test1 () at TestStack.cpp:23
+23		stack->pop(val);
++step
+Stack::pop (this=0x603010, value=@0x7fffffffdbf8: 2.0742881718937645e-317)
+    at Stack.cpp:32
+32			if(top==0) return false;
++step
+33			value = stack[top--];
++step
+34			return true;
++print *value
+Attempt to take contents of a non-pointer value.
++print value
+$27 = (double &) @0x7fffffffdbf8: 0
++step
+35		}
++step
+test1 () at TestStack.cpp:24
+24		stack->pop(val);
++step
+Stack::pop (this=0x603010, value=@0x7fffffffdbf8: 0) at Stack.cpp:32
+32			if(top==0) return false;
++step
+33			value = stack[top--];
++step
+34			return true;
++step
+35		}
++step
+test1 () at TestStack.cpp:25
+25		cout << "val=" << val << endl;
++print cout << "val=" << val << endl;
+Invalid character ';' in expression.
++print cout << "val=" << val << endl
+No symbol "endl" in current context.
++print cout << "val=" << val
+No symbol "operator<<" in current context.
++print val
+$28 = 80
++step
+27		stack->print();
++step
+Stack::print (this=0x603010) at Stack.cpp:50
+50		}
++step
+test1 () at TestStack.cpp:29
+29		stack->push(4);
++step
+Stack::push (this=0x603010, value=4) at Stack.cpp:19
+19			if(maxStack == top)
++step
+23			stack[top++] = value;
++step
+24			return true;
++step
+27		}
++step
+test1 () at TestStack.cpp:30
+30		stack->push(5);
++step
+Stack::push (this=0x603010, value=5) at Stack.cpp:19
+19			if(maxStack == top)
++step
+23			stack[top++] = value;
++step
+24			return true;
++step
+27		}
++step
+test1 () at TestStack.cpp:31
+31		stack->pop(val);
++step
+Stack::pop (this=0x603010, value=@0x7fffffffdbf8: 80) at Stack.cpp:32
+32			if(top==0) return false;
++step
+33			value = stack[top--];
++step
+34			return true;
++step
+35		}
++step
+test1 () at TestStack.cpp:32
+32		cout << "val=" << val << endl;
++print val
+$29 = 0
++print val
+$30 = 0
++step
+34		stack->print();
++print val
+$31 = 0
++step
+Stack::print (this=0x603010) at Stack.cpp:50
+50		}
++step
+test1 () at TestStack.cpp:36
+36		delete stack;
++step
+Stack::~Stack (this=0x603010, __in_chrg=<optimized out>) at Stack.cpp:55
+55		}
++step
+test1 () at TestStack.cpp:37
+37	}
++step
+main (argc=2, argv=0x7fffffffdd28) at TestStack.cpp:43
+43		exit(0);
++step
+[Inferior 1 (process 3534) exited normally]
++step
+The program is not being run.
++step
+The program is not being run.
++q

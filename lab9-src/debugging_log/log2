@@ -1,0 +1,166 @@
+Fri Mar 31 10:08:35 EDT 2017
++run test1
+Starting program: /u/data/u90/jandruli/cs240/lab9-src/TestStack test1
+[Inferior 1 (process 4304) exited normally]
++break main
+Breakpoint 1 at 0x400e40: file TestStack.cpp, line 41.
++run test1
+Starting program: /u/data/u90/jandruli/cs240/lab9-src/TestStack test1
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffdd28) at TestStack.cpp:41
+41		test1();
++next
+43		exit(0);
++break main
+Note: breakpoint 1 also set at pc 0x400e40.
+Breakpoint 2 at 0x400e40: file TestStack.cpp, line 41.
++run test1
+Starting program: /u/data/u90/jandruli/cs240/lab9-src/TestStack test1
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffdd28) at TestStack.cpp:41
+41		test1();
++s
+test1 () at TestStack.cpp:11
+11	void test1() {
++s
+12		Stack * stack = new Stack(10);
++s
+Stack::Stack (this=0x603010, maxStack=10) at Stack.cpp:12
+12		this->maxStack = maxStack;
++s
+13		stack = new double[maxStack];
++s
+14		top = 0;
++s
+15	}
++s
+test1 () at TestStack.cpp:13
+13		stack->push(40);
++s
+Stack::push (this=0x603010, value=40) at Stack.cpp:19
+19			if(maxStack == top)
++s
+23			stack[top++] = value;
++s
+24			return true;
++s
+27		}
++s
+test1 () at TestStack.cpp:14
+14		stack->push(50);
++s
+Stack::push (this=0x603010, value=50) at Stack.cpp:19
+19			if(maxStack == top)
++s
+23			stack[top++] = value;
++s
+24			return true;
++s
+27		}
++s
+test1 () at TestStack.cpp:15
+15		stack->push(60);
++s
+Stack::push (this=0x603010, value=60) at Stack.cpp:19
+19			if(maxStack == top)
++s
+23			stack[top++] = value;
++s
+24			return true;
++s
+27		}
++s
+test1 () at TestStack.cpp:16
+16		stack->push(70);
++s
+Stack::push (this=0x603010, value=70) at Stack.cpp:19
+19			if(maxStack == top)
++s
+23			stack[top++] = value;
++s
+24			return true;
++s
+27		}
++s
+test1 () at TestStack.cpp:17
+17		stack->push(80);
++s
+Stack::push (this=0x603010, value=80) at Stack.cpp:19
+19			if(maxStack == top)
++s
+23			stack[top++] = value;
++s
+24			return true;
++s
+27		}
++s
+test1 () at TestStack.cpp:19
+19		printf("top=%d max=%d\n", stack->getTop(), stack->getMaxStack());
++s
+Stack::getMaxStack (this=0x603010) at Stack.cpp:45
+45			return maxStack;
++s
+46		}
++s
+Stack::getTop (this=0x603010) at Stack.cpp:40
+40			return top;
++s
+41		}
++s
+test1 () at TestStack.cpp:20
+20		stack->print();
++s
+Stack::print (this=0x603010) at Stack.cpp:50
+50			cout << "Stack:" << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+53				cout << i << ":" << stack[i] << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+53				cout << i << ":" << stack[i] << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+53				cout << i << ":" << stack[i] << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+53				cout << i << ":" << stack[i] << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+53				cout << i << ":" << stack[i] << endl;
++s
+51			for(int i = 0; i < top; i++)
++s
+55			cout << "------" << endl;
++s
+56		}
++s
+test1 () at TestStack.cpp:23
+23		stack->pop(val);
++s
+Stack::pop (this=0x603010, value=@0x7fffffffdbf8: 2.0743948900732662e-317)
+    at Stack.cpp:32
+32			if(top==0) return false;
++print top
+$1 = 5
++print top
+$2 = 5
++s
+33			value = stack[top];
++s
+34			top-=1;
++s
+35			return true;
++print top
+$3 = 4
++print stack[top]
+$4 = 80
++print stack[top-1]
+$5 = 70
++print stack[top-1]
+$6 = 70
++q

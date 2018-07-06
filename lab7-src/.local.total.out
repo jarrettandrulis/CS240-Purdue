@@ -1,0 +1,496 @@
+CS240: lab4. cs240 Tue Oct 13 21:53:11 EDT 2015  Total:  9 of 100
+
+CS240: lab4. cs240 Tue Oct 13 21:57:46 EDT 2015  Total:  10 of 100
+
+CS240: lab4. cs240 Tue Oct 13 21:58:16 EDT 2015  Total:  -11 of 79
+
+CS240: lab4. cs240 Tue Oct 13 22:00:08 EDT 2015  Total:  -14 of 64
+
+CS240: lab4. cs240 Tue Oct 13 22:00:41 EDT 2015  Total:  -14 of 64
+
+CS240: lab5. cs240 Tue Oct 13 22:01:11 EDT 2015  Total:  6 of 64
+
+CS240: lab5. cs240 Sun Feb 26 17:26:15 EST 2017  Total:  6 of 64
+
+CS240: lab7. cs240 Tue Feb 28 10:29:18 EST 2017  Total:  0 of 28
+
+CS240: lab7. cs240 Tue Feb 28 10:29:22 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 21:28:15 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 21:58:17 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:01:44 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:02:59 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:04:19 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:10:32 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:13:10 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:13:59 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:21:24 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:21:57 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:26:21 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:39:24 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:39:45 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:44:57 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:47:13 EST 2017  Total:  0 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:47:46 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:47:48 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:51:07 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:57:07 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:58:33 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:58:43 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:58:58 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:59:14 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:59:32 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 22:59:51 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:00:45 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:00:59 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:01:11 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:02:13 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:02:31 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:02:46 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:02:58 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:03:09 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:03:20 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:03:35 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:04:08 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:04:16 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:04:42 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:04:50 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:05:02 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:05:22 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:07:09 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:07:35 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:09:04 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:09:05 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:12:50 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:13:25 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:13:53 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:19:56 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:20:51 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:21:42 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:22:28 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:23:05 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:23:39 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:24:22 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:25:00 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:26:15 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:28:33 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:29:10 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:29:24 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:30:47 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:31:12 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:31:42 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:33:36 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:34:56 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:36:30 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:39:19 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:39:29 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:39:34 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:45:22 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:45:54 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:46:29 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:47:36 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:47:50 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Thu Mar 9 23:48:11 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:02:14 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:05:41 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:06:11 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:06:55 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:07:59 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:08:14 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:08:46 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:09:03 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:09:33 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:09:48 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:13:20 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:15:24 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:19:37 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:19:50 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:22:32 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:23:27 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:26:41 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:28:50 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:31:40 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:33:07 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:33:31 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:34:24 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:36:26 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:37:08 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:37:14 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:38:09 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:38:40 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:38:57 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:40:33 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:46:06 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:46:30 EST 2017  Total:  12 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:46:44 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:47:28 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:49:40 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:52:19 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:54:02 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:54:36 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:56:52 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 00:58:07 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:02:37 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:02:43 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:08:52 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:10:56 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:11:59 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:22:13 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:22:43 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:22:58 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:23:56 EST 2017  Total:  16 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:24:50 EST 2017  Total:  16 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:35:19 EST 2017  Total:  16 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:35:40 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:40:47 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:45:57 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:47:30 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:49:14 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:49:34 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:49:47 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:50:08 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:50:22 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:50:45 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:51:05 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:51:44 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:52:07 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:53:02 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:53:15 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:53:56 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:57:47 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:58:03 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:58:21 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:58:59 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 01:59:47 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:00:11 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:00:39 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:02:37 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:03:10 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:03:44 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:03:57 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:04:07 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:04:17 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:04:53 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:05:02 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:05:29 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:07:49 EST 2017  Total:  4 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:08:02 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:09:11 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:09:44 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:10:41 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:17:56 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:18:19 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:19:01 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:19:21 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:19:46 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:19:57 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:20:05 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:20:30 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:21:26 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:22:21 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:22:33 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:22:45 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:25:57 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:26:46 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:27:20 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:27:31 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:27:47 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:29:23 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:31:07 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:31:37 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:33:23 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:34:33 EST 2017  Total:  22 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:36:37 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:36:53 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:37:01 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:37:17 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:37:37 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:37:55 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:38:39 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:38:54 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:39:03 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:40:08 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:41:04 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:41:34 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:42:13 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:44:18 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:44:38 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:48:05 EST 2017  Total:  8 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:48:10 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:49:22 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:49:30 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:49:40 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:49:52 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:50:12 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:50:42 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:51:08 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:51:54 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:52:08 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:52:27 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:52:40 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:53:09 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:53:23 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:53:52 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:54:08 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:54:18 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:55:32 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:56:16 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:56:29 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 02:58:32 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:00:45 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:01:01 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:01:09 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:01:36 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:02:49 EST 2017  Total:  19 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:02:57 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:04:28 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:16:50 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:17:46 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:17:51 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 03:18:17 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:10:37 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:26:41 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:26:44 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:29:39 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:31:28 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:32:29 EST 2017  Total:  28 of 28
+
+CS240: lab7. jandruli Fri Mar 10 09:33:06 EST 2017  Total:  28 of 28
+
